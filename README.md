@@ -52,5 +52,6 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/shakhsm123/MAE-pretraining-for-CAD-Images.git
 2. **install packages from requirements.txt file**
+   ```bash
    pip install -r requirements.txt
 4. **run jupyter notebooks**
