@@ -24,7 +24,6 @@ In this google drive video explanation and demonstration can be found.
 | `Guided_MAE_working.ipynb| Guided masking reconstruction                                 |
 | `requirements.txt`  | List of dependencies           |
 | `/Demo/*`            | Contains sample CAD images for which one can run reconstruction inference                |
-| `/Weights/*`            | Contains Weights for both Guided and Classical MAE                |
 
 
 
