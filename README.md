@@ -8,8 +8,8 @@ By running all cells there, one can see how well these models perform in the vis
 
 
 #### Google Drive Link
-In this google drive video explanation and demonstration can be found.
-[Insert Google Drive link here]
+In this google drive video explanation and demonstration can be found. The weights of a models are there too: for Classical MAE for 100 epochs and for Guided MAE with 100 epochs. 
+(https://drive.google.com/drive/folders/1dvqCOgyshzM3gAMt7CJN3zZzOdRvwWvN)
 
 ## Features
 - Feature 1: The first .ipynb notebook showcases the implementation of a guided masking strategy based on numpy Frangi Filter along indexes of 1-6 sigma values with a Vessel Probability map and experiments on masking with vessel and masking ratio. 
