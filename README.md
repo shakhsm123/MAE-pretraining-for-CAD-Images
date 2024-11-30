@@ -1,6 +1,6 @@
-# Team Project: [Image Processing] - [ROBT 310]
+# Team Project: Image Processing - ROBT 310
 
-## Project Title: [Advancing Coronary Angiography Vessel Image Analysis via Guided Self-Supervised Masking Pre-training Strategy]
+## Project Title: Advancing Coronary Angiography Vessel Image Analysis via Guided Self-Supervised Masking Pre-training Strategy
 
 ### Description
 This project is designed as final project of the ROBT 310 course. The goal is to introduce compare random masking and guided masking approaches to the Masked Autoencoder by modifying its encoder and inference architecture on a basis of Frangi Filtering of the CAD image. The.ipynb notebooks contain models and architectures both for Guided_MAE and Classical_MAE approach.
