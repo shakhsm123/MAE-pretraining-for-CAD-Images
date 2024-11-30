@@ -19,9 +19,9 @@ In this google drive video explanation and demonstration can be found.
 
 | Folder/File         | Description                                         |
 |---------------------|-----------------------------------------------------|
-| `Classical_MAE.ipynb| Contains the source code files                      |
-| `First_Guided_Masking_Implementation.ipynb| Dataset files                                       |
-| `Guided_MAE_working.ipynb| Documentation files                                 |
+| `Classical_MAE.ipynb| Classical MAE with random masking pipeline for reconstruction                     |
+| `First_Guided_Masking_Implementation.ipynb| First image processing implementation pipeline for Guided Masking                                     |
+| `Guided_MAE_working.ipynb| Guided masking reconstruction                                 |
 | `requirements.txt`  | List of dependencies           |
 | `/Demo/*`            | Contains sample CAD images for which one can run reconstruction inference                |
 | `/Weights/*`            | Contains Weights for both Guided and Classical MAE                |
